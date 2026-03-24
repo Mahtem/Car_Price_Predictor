@@ -4,3 +4,4 @@ pandas
 matplotlib
 shap
 scikit-learn
+pillow==9.5.0
