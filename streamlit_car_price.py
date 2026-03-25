@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 # -----------------------------
 # Load the trained model
 # -----------------------------
-with open("car_price_model.pkl", "rb") as f:
+with open("car_price_model1.pkl", "rb") as f:
     model = pickle.load(f)
 
 # -----------------------------
