@@ -70,7 +70,7 @@ print("\n🔥 Feature Importance:\n", importance)
 # ------------------------
 # Save Model
 # ------------------------
-model_path = r"D:\ML-Projects\Car_Price Prediction\car_price_model.pkl"
+model_path = r"D:\ML-Projects\Car_Price Prediction\car_price_model1.pkl"
 joblib.dump(rf_model, model_path)
 print(f"\n✅ Model saved as {model_path}")
 
